@@ -1,6 +1,7 @@
 BABY SHOWER — ANDREA Y CÉSAR
 17 de octubre de 2026 · 15:30 · Calle Golondrinas esquina Garzas.
 WhatsApp: +59173796408.
-Dos accesos principales: ubicación y confirmación. Reproductor de música independiente, con inicio manual para funcionar en celulares.
+Portada con botón Entrar a la invitación. La música comienza al pulsar Entrar. Incluye cuenta regresiva, frases, transiciones y botones de ubicación y confirmación. El reproductor permite pausar la música.
 Subir todos los archivos a la raíz de un repositorio GitHub Pages. index.html es la página inicial. No requiere instalación.
 No se incluyó nombre del bebé porque no fue proporcionado.
+
